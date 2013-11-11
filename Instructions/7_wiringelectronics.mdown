@@ -1,0 +1,33 @@
+# Connecting electronics
+***
+![view of components laid out]()
+
+### Let's keep a few things in mind:
+	1. Smart people, who value their eyesight, always wear safetly glasses.
+	2. If you are unsure of what you're doing. Stop doing it. Ask on the forum before ruining your setup.
+	3. Have fun. It is, after all, what it's all about. 
+
+
+You will need the following components to complete this step:
+	1. Assembled Machine from previous step
+	2. Stepper Cable
+	3. Terminal Blocks
+	
+You will need the following tools to complete this step in the assembly
+	1. Screwdriver
+	2. Terminal Blocks?
+	3. Wire strippers
+	3. 
+
+### 
+	1. 
+	2. 
+	3. repeat the process for the rear of the machine
+
+### 
+	1. 
+	2. 
+	3. 
+
+
+### Completed Step!

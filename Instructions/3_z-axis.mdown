@@ -1,6 +1,6 @@
-# Assembling the Motor Mount Plates
+# Assembling the Z-Axis Assembly
 ***
-![view of motor mount plates laid out]()
+![view of z-axis assembly parts]()
 
 ### Let's keep a few things in mind:
 	1. Smart people, who value their eyesight, always wear safetly glasses.
@@ -8,23 +8,11 @@
 	3. Have fun. It is, after all, what it's all about. 
 
 
-You will need the following components to complete this step:
-	1. 
-	2. 
-	3. 
+The z-axis assembly consists of the following parts:
+	1. 200mm makerslide x 1
+	2. z-axis mount plates x 2
+	3. 50mm standoffs x 3
 	4. 
-	5. 
-	6. 
-	7. 
-	8. 
-	9. 
-	10.
-
-You will need the following tools to complete this step in the assembly
-	1. 
-	2. 
-	3. 
-
 
 ### So start things off, let's go ahead and assemble *all* of the v-wheel kits and smooth idlers
 	#### V-Wheels (20 wheels total)

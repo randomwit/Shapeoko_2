@@ -11,6 +11,24 @@
 	6. Have fun. It is, after all, what it's all about. 
 
 
+You will need the following components to complete this step:
+	1. 
+	2. 
+	3. 
+	4. 
+	5. 
+	6. 
+	7. 
+	8. 
+	9. 
+	10.
+
+You will need the following tools to complete this step in the assembly
+	1. 
+	2. 
+	3. 
+
+
 ### Overview
 Beforfe we get all crazy bolting our parts together, we will give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require dis-assembly! Let' cut that off at the pass and give everythign a thorough checking first.
 
